@@ -1,16 +1,13 @@
-### Hi there 👋
+# Портфолио 
 
-<!--
-**alvikui/alvikui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Я **Куимова Алена**, начинающий тестировщик/Junior QA
+[Ссылка на резюме](https://docs.google.com/document/d/1v-w55XhKNjJapyWcKduyC6bLnRlCw1PU/edit?usp=sharing&ouid=107877928262337062453&rtpof=true&sd=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты
+
+
+### Сертификаты Нетологии
+
+
+### Контакты

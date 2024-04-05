@@ -7,11 +7,11 @@
 
 ***Проекты:***
 
-[Чек-лист "Проверка прототипа веб-интерфейса"] (https://docs.google.com/spreadsheets/d/1MKHTMwX-bjfletj8pIq9YGAnetO4D4QWRqQSYddW4lk/edit?usp=sharing)
+[Чек-лист "Проверка прототипа веб-интерфейса"](https://docs.google.com/spreadsheets/d/1MKHTMwX-bjfletj8pIq9YGAnetO4D4QWRqQSYddW4lk/edit?usp=sharing)
 
-[Чек-лист "Проверка создания услуги "Получить ключи и документы""] (https://docs.google.com/spreadsheets/d/1FFLBjDKawtav09BZ6v2pG1D5EdtEdts-5N-0eF-dqoE/edit?usp=sharing)
+[Чек-лист "Проверка создания услуги "Получить ключи и документы""](https://docs.google.com/spreadsheets/d/1FFLBjDKawtav09BZ6v2pG1D5EdtEdts-5N-0eF-dqoE/edit?usp=sharing)
 
-[Тест-кейсы на проверку функционала приложения по переводу денежных средств с счёта на счёт] (https://docs.google.com/spreadsheets/d/131nLDpHskSWL9yz8Q0WX7zh0pvTj0K_dFwZu8h66IWU/edit?usp=sharing)
+[Тест-кейсы на проверку функционала приложения по переводу денежных средств с счёта на счёт](https://docs.google.com/spreadsheets/d/131nLDpHskSWL9yz8Q0WX7zh0pvTj0K_dFwZu8h66IWU/edit?usp=sharing)
 
 [Тест-кейс на восстановление пароля](https://docs.google.com/spreadsheets/d/1pF8v_egfVWwQQfESpgeVFCR_kXdAyFoyhhp2cqvMqOw/edit?usp=sharing)
 
@@ -23,7 +23,7 @@
 
 [Скриншоты тестирования API при отправке формы заявки на карту](https://docs.google.com/document/d/1OcBcsrzH7pXfTIuXSOe8qTfO6JbJt__xC62QjoFuQ90/edit?usp=sharing)
 
-[Скриншоты тестирования API VK-Создание альбома, добавление фотографий, удаление альбома] (https://docs.google.com/document/d/1WP7OimRsV5IoXhn85wE9RlvXHHKm4JeWo17LdR3iNhU/edit?usp=sharing)
+[Скриншоты тестирования API VK-Создание альбома, добавление фотографий, удаление альбома](https://docs.google.com/document/d/1WP7OimRsV5IoXhn85wE9RlvXHHKm4JeWo17LdR3iNhU/edit?usp=sharing)
 
 [Нагрузочное тестирование в JMeter](https://docs.google.com/document/d/1l91EDwKjTojFLmOTuzH5v8e7JrXHsLgu7NgiahiHuNU/edit?usp=sharing)
 
@@ -34,15 +34,15 @@
 
 [Git — система контроля версий](https://drive.google.com/file/d/1Ai1PjuH3FGKESTa_EBx7pgvcCluXwWiE/view?usp=sharing)
 
-[Java для тестировщиков] (https://drive.google.com/file/d/1fTTjlEoLZjCTXkL6XMsC7NM9wH_tHXHo/view?usp=sharing)
+[Java для тестировщиков](https://drive.google.com/file/d/1fTTjlEoLZjCTXkL6XMsC7NM9wH_tHXHo/view?usp=sharing)
 
-[Автоматизированное тестирование на Java] (https://drive.google.com/file/d/1cg8A7aq184qWEqNMf13Sm99Dsx3x8xvs/view?usp=sharing)
+[Автоматизированное тестирование на Java](https://drive.google.com/file/d/1cg8A7aq184qWEqNMf13Sm99Dsx3x8xvs/view?usp=sharing)
 
-[JavaScript для тестировщиков] (https://drive.google.com/file/d/1cL6yJFe3JFkd7gRICTFnVFANIx4AYAPR/view?usp=sharing)
+[JavaScript для тестировщиков](https://drive.google.com/file/d/1cL6yJFe3JFkd7gRICTFnVFANIx4AYAPR/view?usp=sharing)
 
-[Автоматизация тестирования веб-интерфейсов на JavaScript] (https://drive.google.com/file/d/1nMA1UIAoO95MptxM2PPt-3jjuhZkolHt/view?usp=sharing)
+[Автоматизация тестирования веб-интерфейсов на JavaScript](https://drive.google.com/file/d/1nMA1UIAoO95MptxM2PPt-3jjuhZkolHt/view?usp=sharing)
 
-[Тестирование мобильных приложений] (https://drive.google.com/file/d/15A4F47A4T8nSoorecAhGNfUeGGEsZs5F/view?usp=sharing)
+[Тестирование мобильных приложений](https://drive.google.com/file/d/15A4F47A4T8nSoorecAhGNfUeGGEsZs5F/view?usp=sharing)
 
 
 ***Контакты:***

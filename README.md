@@ -2,7 +2,7 @@
 
 Я **Куимова Алена**, начинающий <u> тестировщик/Junior QA </u>
 
-[Ссылка на резюме](https://docs.google.com/document/d/1OD-uEmq4saem_udKknSWcVVJ67JSiIyv/edit?usp=sharing&ouid=107877928262337062453&rtpof=true&sd=true)
+[Ссылка на резюме](https://www.notion.so/alvikui/1ca20b7ba08e48a88f66b5ec9033199a?pvs=4)
 
 
 ***Проекты:***
@@ -43,6 +43,10 @@
 [Автоматизация тестирования веб-интерфейсов на JavaScript](https://drive.google.com/file/d/1nMA1UIAoO95MptxM2PPt-3jjuhZkolHt/view?usp=sharing)
 
 [Тестирование мобильных приложений](https://drive.google.com/file/d/15A4F47A4T8nSoorecAhGNfUeGGEsZs5F/view?usp=sharing)
+
+[Тестирование производительности](https://drive.google.com/file/d/1f3P1lc42oXjA5y8UxlhYp5JoeDJlRixi/view?usp=sharing)
+
+[Тестирование безопасности](https://drive.google.com/file/d/1E3zpgaC1Dk7HpKsXk_mDMce8arUnST-j/view?usp=sharing)
 
 
 ***Контакты:***

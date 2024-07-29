@@ -2,7 +2,7 @@
 
 Я **Куимова Алена**, начинающий <u> тестировщик/Junior QA </u>
 
-[Ссылка на резюме](https://www.notion.so/alvikui/1ca20b7ba08e48a88f66b5ec9033199a?pvs=4)
+[Ссылка на резюме](https://alvikui.notion.site/1ca20b7ba08e48a88f66b5ec9033199a)
 
 
 ***Проекты:***

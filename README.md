@@ -27,6 +27,8 @@
 
 [Нагрузочное тестирование в JMeter](https://docs.google.com/document/d/1l91EDwKjTojFLmOTuzH5v8e7JrXHsLgu7NgiahiHuNU/edit?usp=sharing)
 
+[Дипломный проект: Тестирование мобильного приложения "Мобильный хоспис"](https://github.com/alvikui/Diplom_Netology)
+
 
 ***Сертификаты Нетологии:***
 
@@ -47,6 +49,8 @@
 [Тестирование производительности](https://drive.google.com/file/d/1f3P1lc42oXjA5y8UxlhYp5JoeDJlRixi/view?usp=sharing)
 
 [Тестирование безопасности](https://drive.google.com/file/d/1E3zpgaC1Dk7HpKsXk_mDMce8arUnST-j/view?usp=sharing)
+
+[Свидетельство об обучении](https://drive.google.com/file/d/1f8-NTsIQueSEk2G6ZNPqeCxrwF4yNVU-/view?usp=sharing)
 
 
 ***Контакты:***

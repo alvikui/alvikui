@@ -27,7 +27,9 @@
 
 [Нагрузочное тестирование в JMeter](https://docs.google.com/document/d/1l91EDwKjTojFLmOTuzH5v8e7JrXHsLgu7NgiahiHuNU/edit?usp=sharing)
 
-[Дипломный проект: Тестирование мобильного приложения "Мобильный хоспис"](https://github.com/alvikui/Diplom_Netology)
+[Тестирование мобильного приложения "Мобильный хоспис"](https://github.com/alvikui/Diplom_Netology)
+
+[Тестирование Wear.online service: Чек-лист, тест-кейсы, коллекция в postman](https://drive.google.com/drive/folders/1gvGYQBbr_lAwp_7mx8Zgkyx70oLLL6m2?usp=sharing)
 
 
 ***Сертификаты Нетологии:***
